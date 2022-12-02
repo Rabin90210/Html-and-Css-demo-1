@@ -9,7 +9,7 @@ section {
 }
 
 p{
-    color: blue !
+    color: blue !important;
 }
 
 .blue{
