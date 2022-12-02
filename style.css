@@ -1,0 +1,25 @@
+section {
+    height: 80vh;
+    border: 2px solid black;
+}
+
+
+.red {
+    color: red;
+}
+
+p{
+    color: blue !
+}
+
+.blue{
+    color: red;
+}
+
+p.red{
+    color: purple;
+}
+
+#title {
+    color: black;
+}
