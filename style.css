@@ -1,25 +1,21 @@
-section {
-    height: 80vh;
-    border: 2px solid black;
-}
+div {
+height: 200px;
+border: 3px solid black;
 
+}
 
 .red {
-    color: red;
+    background-color: red;
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
 }
 
-p{
-    color: blue !important;
-}
-
-.blue{
-    color: red;
-}
-
-p.red{
-    color: purple;
-}
-
-#title {
-    color: black;
+.chill {
+    background-color: blue;
+    width: 100px;
+    height: 100px; 
+    position: absolute;
+    top: 0;
+    right: 0; 
 }
